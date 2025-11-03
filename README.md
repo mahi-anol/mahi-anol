@@ -22,7 +22,7 @@ Currently exploring:
 
 ## 📫 Connect with Me
 
-- LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/mahi-anol)  
-- X: [github.com/yourusername](https://x.com/AnolMahi)  
+- LinkedIn: [linkedin.com/in/mahi-anol](https://www.linkedin.com/in/mahi-anol)  
+- X: [x.com/AnolMahi](https://x.com/AnolMahi)  
 
 ---
