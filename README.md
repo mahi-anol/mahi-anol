@@ -28,4 +28,5 @@ Currently exploring:
 ## 📫 Connect with Me
 
 - LinkedIn: [linkedin.com/in/mahi-anol](https://www.linkedin.com/in/mahi-anol)  
-- X (Twitter): [x.com/AnolMahi](https://x.com/AnolMahi)  
+- X (Twitter): [x.com/AnolMahi](https://x.com/AnolMahi)
+- Medium: [medium.com/@anol.mahi](https://medium.com/@anol.mahi)
