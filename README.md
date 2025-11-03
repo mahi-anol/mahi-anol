@@ -12,25 +12,11 @@ Currently exploring:
 
 ## 🛠️ Skills & Tools
 
-**Programming Languages:** Python, C++, JavaScript  
-**Machine Learning & AI:** PyTorch, TensorFlow, Scikit-learn, Reinforcement Learning  
-**MLOps:** Docker, Kubernetes, MLflow, FastAPI  
-**Backend Development:** Node.js, FastAPI, REST APIs, SQL & NoSQL Databases  
+**Programming Languages:** Python, C++
+**Machine Learning & AI:** PyTorch, Scikit-learn, langchain, langgraph, llama-index
+**MLOps:** Docker, Kubernetes, MLflow, FastAPI ,AWS
+**Backend Development:** FastAPI, REST APIs, SQL & NoSQL Databases  
 **GPU & CUDA:** CUDA Kernels, Parallel Computing, Performance Optimization  
-
----
-
-## 🚀 Projects
-
-### Machine Learning & MLOps
-- [**ML Projects**](https://github.com/yourusername/ml-projects) – Neural network implementations, reinforcement learning experiments, and end-to-end ML pipelines.  
-- [**MLOps Projects**](https://github.com/yourusername/mlops-projects) – Deployment, scaling ML models, and production-ready pipelines.  
-
-### Backend Engineering
-- [**Backend Projects**](https://github.com/yourusername/backend-projects) – REST APIs, FastAPI services, and backend architecture experiments.  
-
-### GPU & CUDA
-- [**CUDA Experiments**](https://github.com/yourusername/cuda-projects) – Low-level GPU kernel experiments and parallel computing optimizations.  
 
 ---
 
@@ -40,5 +26,3 @@ Currently exploring:
 - X: [github.com/yourusername](https://x.com/AnolMahi)  
 
 ---
-
-**“I love turning simple ideas into complex systems — and learning something new along the way.”**
