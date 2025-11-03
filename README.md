@@ -14,8 +14,8 @@ Currently exploring:
 
 **Programming Languages:** Python, C++  
 **Machine Learning & AI:** PyTorch, Scikit-learn, langchain, langgraph, llama-index  
-**MLOps:** Docker, Kubernetes, MLflow, FastAPI ,AWS  
-**Backend Development:** FastAPI, REST APIs, SQL & NoSQL Databases  
+**MLOps:** Docker, CI-CD, FastAPI, Kubernetes, MLflow, Jenkins, Argo CD, Terraform, AWS   
+**Backend Development:** FastAPI, Redis, REST APIs, SQL & NoSQL Databases  
 **GPU & CUDA:** CUDA Kernels, Parallel Computing, Performance Optimization  
 
 ---
