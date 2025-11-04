@@ -1,7 +1,7 @@
 # Hi, I'm Mahi 👋
 
 I’m fascinated by how **complex systems emerge from simple ideas**.  
-In my free time, I build things from scratch -- from **low-level CUDA kernel experiments** and **neural network implementations** to **backend architectures** and **reinforcement learning agents**.
+In my free time, I build things from scratch -- from **low-level CUDA kernel experiments** and **neural network implementations** to **backend architectures**. 
 
 I’m currently working as a **Machine Learning Engineer @Nasir Syntax Solution Limited**,  
 where I focus on building scalable ML systems and production-grade backend ML services.
@@ -9,7 +9,8 @@ where I focus on building scalable ML systems and production-grade backend ML se
 Actively exploring:  
 - **MLOps & Machine Learning Engineering**  
 - **Backend Engineering**  
-- **GPU Programming & CUDA Kernels**  
+- **GPU Programming & CUDA Kernels**
+- **Reinforcement learning**  
 
 ---
 
