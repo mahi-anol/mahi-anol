@@ -6,7 +6,7 @@ In my free time, I build things from scratch — from **low-level CUDA kernel ex
 I’m currently working as a **Machine Learning Engineer @ Nasir Syntax Solution Limited**,  
 where I focus on building scalable ML systems and production-grade backend ML services.
 
-Currently exploring:  
+Actively exploring:  
 - **MLOps & Machine Learning Engineering**  
 - **Backend Engineering**  
 - **GPU Programming & CUDA Kernels**  
