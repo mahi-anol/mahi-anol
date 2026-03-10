@@ -1,4 +1,4 @@
-# Hi, I'm Mahi 
+# Hi, I'm Mahi👋
 
 I’m fascinated by how **complex systems emerge from simple ideas**.  
 In my free time, I build things from scratch from **low-level CUDA kernel experiments** and **neural network implementations** to **backend architectures**. 
