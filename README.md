@@ -1,10 +1,9 @@
-# Hi, I'm Mahi👋
+# Hi, I'm Mahi!
 
 I’m fascinated by how **complex systems emerge from simple ideas**.  
 In my free time, I build things from scratch, from **low-level CUDA kernel experiments** and **neural network implementations** to **backend architectures**. 
 
-I’m currently working as a **Machine Learning Engineer @Nasir Syntax Solution Limited**,  
-where I focus on building scalable ML systems and production-grade backend ML services.
+I’m currently working as a **Machine Learning Engineer @Nasir Syntax Solution Limited**, where I focus on building scalable ML systems and production-grade backend ML services.
 
 Actively exploring:  
 - **MLOps & Machine Learning Engineering**  
@@ -14,7 +13,7 @@ Actively exploring:
 
 ---
 
-## 🛠️ Skills & Tools
+## Skills & Tools
 
 **Programming Languages:** Python, C++, Bash  
 **Machine Learning & AI:** PyTorch, Hugging Face Libraries, Scikit-learn, LangChain, LangGraph, LlamaIndex  
@@ -26,7 +25,7 @@ Actively exploring:
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 
 - LinkedIn: [linkedin.com/in/mahi-anol](https://www.linkedin.com/in/mahi-anol)  
 - X (Twitter): [x.com/AnolMahi](https://x.com/AnolMahi)
