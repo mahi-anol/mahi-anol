@@ -18,7 +18,7 @@ Actively exploring:
 **Programming Languages:** Python, C++, Bash, SQL  
 **Machine Learning & AI:** PyTorch, Tensorflow, Hugging Face Libraries, Scikit-learn, LangChain, LangGraph, LlamaIndex, vLLM, CUDA, Triton. 
 **MLOps & Infrastructure:** Docker, CI/CD, FastAPI, Kubernetes, MLflow, Jenkins, Argo CD, Terraform, Pulumi, Apache Airflow, AWS(EC2,ECR,EKS).  
-**Backend Development:** REST APIs(FastAPI, Flask), Redis, SQL & NoSQL Databases, Celery, Kafka, JWT.
+**Backend Development:** REST APIs(FastAPI, Flask), Redis, SQL & NoSQL Databases, RabbitMQ, Celery, Kafka, JWT.
 **Data Engineering & Automation:** Apache Airflow, Selenium, Beautiful Soup, Scrapy, Dask, Pandas.  
 
 ---
