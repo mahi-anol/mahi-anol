@@ -15,11 +15,11 @@ Actively exploring:
 
 ## Skills & Tools
 
-**Programming Languages:** Python, C++, Bash  
+**Programming Languages:** Python, C++, Bash   
 **Machine Learning & AI:** PyTorch, Hugging Face Libraries, Scikit-learn, LangChain, LangGraph, LlamaIndex  
 **MLOps & Infrastructure:** Docker, CI/CD, FastAPI, Kubernetes, MLflow, Jenkins, Argo CD, Terraform, Pulumi, Apache Airflow  
 **Cloud:** AWS  
-**Backend Development:** FastAPI, Redis, REST APIs, SQL & NoSQL Databases  
+**Backend Development:** FastAPI, Redis, REST APIs, SQL & NoSQL Databases, Celery, Kafka, JWT
 **Web Scraping & Automation:** Selenium, Beautiful Soup, Scrapy  
 **GPU & CUDA:** CUDA Kernels, Triton, Parallel Computing, Performance Optimization  
 
